@@ -2,6 +2,7 @@
  body{
 /* Es la parte de atrás */
 background-color: #102120;
+background-image: url(https://sun9-40.userapi.com/impf/Zdwv4dtnLUx9-DGQMGwDDobm-dSIFeNwyNhomQ/IlbiUSO6lUQ.jpg?size=1920x768&quality=95&crop=21,254,1058,422&sign=44828c74fd430a543cd0aa67e046d757&type=cover_group);
 background-size: contain;
 background-position: center;
 }
@@ -16,13 +17,13 @@ top: 50%;
 left: 50%;
 padding: -20px;
 background-color: rgba(0, 0, 0, 0.35);
-border: 2px solid red;
+border: 2px solid yellow;
 }
 .presentacion{
 font-family: Arial, sans-serif; 
 font-size:20px;
 color:white;
-ont-weight:100;
+font-weight:100;
 text-align:center;
 }
 .img_about{
